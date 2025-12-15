@@ -1,8 +1,7 @@
 node_modules
 .pnpm-store
+.next
 dist
 build
-.out
-.next
 .env
 .env.*
