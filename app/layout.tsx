@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     type: "website",
     locale: "es_PE",
     title: "Ferretería William David - Herramientas de Alta Calidad",
-    description: "Encuentra herramientas y materiales de construcción de alta calidad en Pasco, Perú",
+    description: "Encuentra herramientas y materiales de construcción de alta calidad en CP 19 de Agosto, Perú",
     siteName: "Ferretería William David",
   },
   generator: "DDH DEV",
