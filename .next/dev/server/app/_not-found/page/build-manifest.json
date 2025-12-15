@@ -1,0 +1,22 @@
+{
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [
+    "static/chunks/f634c_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_a0766b9f._.js",
+    "static/chunks/f634c_next_dist_compiled_react-dom_8167d7d5._.js",
+    "static/chunks/f634c_next_dist_compiled_react-server-dom-turbopack_01c31347._.js",
+    "static/chunks/f634c_next_dist_compiled_next-devtools_index_5ec05b06.js",
+    "static/chunks/f634c_next_dist_compiled_ab16c135._.js",
+    "static/chunks/f634c_next_dist_client_d8951dda._.js",
+    "static/chunks/f634c_next_dist_b07ee5e6._.js",
+    "static/chunks/f634c_@swc_helpers_cjs_c1a80eef._.js",
+    "static/chunks/Escritorio_comercialwilliamdavidmaster_a0ff3932._.js",
+    "static/chunks/turbopack-Escritorio_comercialwilliamdavidmaster_591f08f6._.js"
+  ],
+  "pages": {},
+  "ampFirstPages": []
+}
