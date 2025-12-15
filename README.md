@@ -102,7 +102,7 @@ npm start
 
 ## Contacto
 
-- **Teléfono:** +51 988 101 104
+- **Teléfono:** +51 969 921 621
 - **Ubicación:** Jr. Huanuco con Jr. Cuzco, Pasco - Perú
 - **Horario:** Lun - Sáb: 8:00 AM - 7:00 PM
 
