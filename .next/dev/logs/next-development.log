@@ -1,14 +1,33 @@
-[00:00:01.149] Server  LOG      ✓ Ready in 755ms
-[00:00:10.473] Server  LOG      ○ Compiling / ...
-[00:00:17.212] Server  WARN    Image with src "/images/banner.jpg" is using quality "85" which is not configured in images.qualities [75]. Please update your config to [75, 85].
+[00:00:01.558] Server  LOG      ✓ Ready in 1075ms
+[00:00:07.513] Server  LOG      ○ Compiling / ...
+[00:00:14.017] Server  WARN    Image with src "/images/banner.jpg" is using quality "85" which is not configured in images.qualities [75]. Please update your config to [75, 85].
 Read more: https://nextjs.org/docs/messages/next-image-unconfigured-qualities
-[00:00:18.228] Browser WARN    Image with src "/images/banner.jpg" is using quality "85" which is not configured in images.qualities [75]. Please update your config to [75, 85].
+[00:00:15.086] Browser WARN    Image with src "/images/banner.jpg" is using quality "85" which is not configured in images.qualities [75]. Please update your config to [75, 85].
 Read more: https://nextjs.org/docs/messages/next-image-unconfigured-qualities
-[00:00:18.666] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:18.666] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:00:18.666] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765838596013}
-[00:00:20.600] Browser WARN    Image with src "/images/banner.jpg" is using quality "85" which is not configured in images.qualities [75]. Please update your config to [75, 85].
+[00:00:15.730] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:15.730] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:15.730] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1766455798024}
+[00:02:30.254] Server  LOG      ✓ Compiled in 554ms
+[00:02:32.500] Server  LOG      ✓ Compiled in 517ms
+[00:02:50.786] Server  LOG      ✓ Compiled in 332ms
+[00:02:55.228] Server  LOG      ✓ Compiled in 418ms
+[00:03:08.927] Server  LOG      ✓ Compiled in 265ms
+[00:03:10.520] Server  LOG      ✓ Compiled in 253ms
+[00:03:12.242] Server  LOG      ✓ Compiled in 232ms
+[00:03:16.777] Server  LOG      ✓ Compiled in 360ms
+[00:03:34.925] Server  WARN    Image with src "/images/banner.jpg" is using quality "85" which is not configured in images.qualities [75]. Please update your config to [75, 85].
 Read more: https://nextjs.org/docs/messages/next-image-unconfigured-qualities
-[00:00:20.856] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:20.857] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:00:20.857] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765838598195}
+[00:03:35.837] Browser WARN    Image with src "/images/banner.jpg" is using quality "85" which is not configured in images.qualities [75]. Please update your config to [75, 85].
+Read more: https://nextjs.org/docs/messages/next-image-unconfigured-qualities
+[00:03:36.156] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:03:36.156] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:03:36.156] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1766455998448}
+[00:04:46.281] Server  LOG      ✓ Compiled in 254ms
+[00:04:50.939] Server  LOG      ✓ Compiled in 333ms
+[00:04:52.959] Server  LOG      ✓ Compiled in 504ms
+[00:04:55.276] Server  LOG      ✓ Compiled in 409ms
+[00:04:56.911] Server  LOG      ✓ Compiled in 307ms
+[00:04:58.344] Server  LOG      ✓ Compiled in 308ms
+[00:05:03.638] Server  LOG      ✓ Compiled in 274ms
+[00:05:18.799] Server  LOG      ✓ Compiled in 246ms
+[00:05:49.779] Server  LOG      ✓ Compiled in 220ms

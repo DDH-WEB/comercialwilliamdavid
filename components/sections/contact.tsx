@@ -49,14 +49,14 @@ export default function Contact() {
   const contactInfo = [
     {
       icon: Phone,
-      title: "Teléfono",
-      content: "+51 969 921 621",
+      title: "Teléfono - DDH DEV",
+      content: "+51 928 570 081",
       gradient: "from-orange-500 to-red-500",
     },
     {
       icon: MapPin,
       title: "Ubicación",
-      content: "CALLE RAMON CASTILLA N° 321 TABLAZO NORTE",
+      content: "Peru, Piura",
       gradient: "from-blue-500 to-cyan-500",
     },
     {
@@ -107,7 +107,7 @@ export default function Contact() {
               className="bg-linear-to-r from-orange-600 to-red-600 hover:from-orange-700 hover:to-red-700 text-white px-10 py-6 text-lg font-semibold shadow-lg hover:shadow-orange-500/50 transition-all hover:scale-105"
             >
               <a
-                href="https://wa.me/51969921621"
+                href="https://wa.me/51928570081"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3"

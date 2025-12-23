@@ -116,7 +116,7 @@ export default function Hero() {
             size="lg"
             className="bg-orange-600 hover:bg-orange-700 text-white px-8 py-6 text-lg font-semibold shadow-lg hover:shadow-orange-500/50 transition-all hover:scale-105"
           >
-            <a href="https://wa.me/51969921621" target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/51928570081" target="_blank" rel="noopener noreferrer">
               Contáctenos
             </a>
           </Button>
